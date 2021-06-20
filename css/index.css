@@ -1,5 +1,5 @@
 .background{
-    background-image: url("/images/background.jpg");
+    background-image: url("/images/bg1.jpg");
     background-size: cover;
     height: 720px;
 
@@ -9,4 +9,53 @@
     background-size: cover;
     height: 400PX;
     margin-top: 40px;
+}
+.work1 img{
+    height: 200px;
+    margin-left: 70px;
+
+}
+.work2 img{
+    height: 200px;
+    padding-left: 20px;
+
+}
+.work3 img{
+    height: 200px;
+    padding-left: 20px;
+
+}.work4 img{
+    height: 200px;
+    padding-left: 20px;
+    
+}
+.work5 img{
+    height: 200px;
+    margin-left: 80px;
+    
+
+}
+.work6 img{
+    height: 200px;
+    padding-left: 20px;
+
+}
+.work7 img{
+    height: 200px;
+    padding-left: 20px;
+
+}
+.work8 img{
+    height: 200px;
+    padding-left: 20px;
+}
+
+.footer{
+    background-image: url( "/images/bg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+   height: 500px;
+   padding-top: 100px;
+   margin-top: 20px;
+   background-color: none;
 }
