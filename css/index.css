@@ -4,3 +4,8 @@
     height: 720px;
 
 }
+.services{
+    background-image: url("/images/bg2.jpg");
+    background-size: cover;
+    height: 400PX;
+}
