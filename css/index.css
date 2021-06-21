@@ -15,6 +15,27 @@
     margin-left: 70px;
 
 }
+.fade1 img{
+    width: 250px;
+    height: 200px;
+    transition: width 2s, height 4s;
+}
+.fade1 img:hover{
+    width: 300px;
+    height: 300px;
+
+}
+.fade2 img{
+    width: 250px;
+    height: 200px;
+    transition: width 2s, height 4s;
+}
+.fade2 img:hover{
+    width: 300px;
+    height: 300px;
+
+}
+
 .work2 img{
     height: 200px;
     padding-left: 20px;
@@ -50,6 +71,37 @@
     padding-left: 20px;
 }
 
+ 
+  .abt{
+     margin-left: 100px;
+  }
+ 
+ 
+ .text-click {
+      display: none;
+  }
+  .text-click2 {
+     display: none;
+ }
+ .text-click3 {
+     display: none;
+ }
+ 
+ #panel, #flip {
+     padding: 5px;
+     text-align: center;
+     background-color: transparent;
+     border: solid 0.5px #c3c3c3;
+     
+   }
+   
+   #panel {
+     padding: 50px;
+     display: none;
+     margin-bottom: 5px;
+    
+   }
+
 .footer{
     background-image: url( "../images/bg4.jpg");
     background-repeat: no-repeat;
@@ -57,8 +109,13 @@
    height: 450px;
    padding-top: 100px;
    margin-top: 20px;
-   background-color:none;
+   color:none;
 }
 .footer1{
     margin-left: 305px;
+}
+.form{
+    background-color: transparent;
+    
+    width: 50%;
 }
