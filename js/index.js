@@ -7,7 +7,7 @@ $(document).ready(function(){
   $(".img2").click(function(){
     $(".development").toggle();
     $(".click2").toggle();
-  })
+  });
 
   $(".img3").click(function(){
     $(".product").toggle();

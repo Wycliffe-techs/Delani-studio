@@ -91,12 +91,12 @@
     
    }
 
-.footer{
+.contact{
     background-image: url( "../images/bg4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-   height: 450px;
-   padding-top: 100px;
+   height:700px;
+   /* padding-top: 100px; */
    margin-top: 20px;
    color:none;
 }
