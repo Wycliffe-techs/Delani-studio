@@ -25,5 +25,5 @@
 ## Support and contact details
 {Incase of any difficulty of access please contact the author through email at(wyclifffeomondi01@gmail.com)}
 ### License
-* MIT License:
+* MIT License
 * Copyright (c) 2021 Wycliffe Omondi Otieno
