@@ -70,52 +70,17 @@
     height: 200px;
     padding-left: 20px;
 }
-
- 
-  .abt{
-     margin-left: 100px;
-  }
- 
- 
- .text-click {
-      display: none;
-  }
-  .text-click2 {
-     display: none;
- }
- .text-click3 {
-     display: none;
- }
- 
- #panel, #flip {
-     padding: 5px;
-     text-align: center;
-     background-color: transparent;
-     border: solid 0.5px #c3c3c3;
-     
-   }
-   
-   #panel {
-     padding: 50px;
-     display: none;
-     margin-bottom: 5px;
-    
-   }
-
-.footer{
+.contact{
     background-image: url( "../images/bg4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
    height: 450px;
-   padding-top: 100px;
+   /* padding-top: 100px; */
    margin-top: 20px;
    color:none;
 }
-.footer1{
+.footer{
     margin-left: 305px;
 }
-.form{
-    background-color: transparent;
-    
-    width: 50%;
-}
+
+
