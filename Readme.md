@@ -1,13 +1,17 @@
-# {Delani Studio}
-#### {A personal Website containing details about me}, {07/06/2021}
+# {DELANI STUDIO}
+#### {Delani Studio}, {22/06/2021}
 #### By **{Wycliffe Omondi Otieno}**
 ## Description
 {A webpage for Delani studio which gives a detailed account about what they are, the services they offer, projects they've done so far and a contact-us page .}
 ## Setup/Installation Requirements
-* The home page has information on github projects by Wycliffe Omondi.
-* The About page Has brief information of Wycliffe Omondi.
-* The github project names are directly linked to their github links.
-* Once the github project names in red are clicked they redirect directly to the github links. {The     website is free and depends on nothing but the browser for its access.}
+* Open Terminal {Ctrl+Alt+T}
+
+* git clone https://github.com/Owiti-Charles/Delani-Studio.git
+
+* cd Delani-Studio
+
+* code . or atom . depending on the text editor of your choise.
+}
 ## Known Bugs
 {There are no Bugs discovered yet }
 ## Technologies Used
