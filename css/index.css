@@ -70,16 +70,37 @@
     height: 200px;
     padding-left: 20px;
 }
-.contact{
+
+ 
+  .abt{
+     margin-left: 100px;
+  }
+ 
+ #panel, #flip {
+     padding: 5px;
+     text-align: center;
+     background-color: transparent;
+     border: solid 0.5px #c3c3c3;
+     
+   }
+   
+   #panel {
+     padding: 50px;
+     display: none;
+     margin-bottom: 5px;
+    
+   }
+
+.footer{
     background-image: url( "../images/bg4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
    height: 450px;
-   /* padding-top: 100px; */
+   padding-top: 100px;
    margin-top: 20px;
    color:none;
 }
-.footer{
+.footer1{
     margin-left: 305px;
 }
 
