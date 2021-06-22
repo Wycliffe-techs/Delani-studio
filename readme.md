@@ -6,8 +6,8 @@
 ## Setup/Installation Requirements
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone https://github.com/Owiti-Charles/Delani-Studio.git
-
+* git clone https://github.com/Wycliffe-techs/Delani-studio.git
+ 
 * cd Delani-Studio
 
 * code . or atom . depending on the text editor of your choise.
